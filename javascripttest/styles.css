@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  background: #DDD;
+}
+
+header > h1 {
+  background: #346060;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 100px;
+  color: #DDD;
+}
+
+.about {
+  font-family: Asap, sans-serif;
+  font-size: 20px;
+}
+
+#about-header {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#about-sub-header {
+  font-size: 25px;
+}
+
+.about-tool {
+  margin: 20px auto;
+  padding: 20px 20px;
+  text-align: center;
+  width: 50%;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+
+.div {
+  margin: 20px auto;
+  padding: 20px 20px;
+  text-align: center;
+  width: 50%;
+  border: 5px solid black;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+#false {
+    background-color: red;
+}
+
+#true {
+    background-color: green;
+}
+
+
